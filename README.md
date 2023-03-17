@@ -1,6 +1,6 @@
 ### Olá! eu sou o João Pedro👋
 
-- 🌱 Atualmente estou no 3° periodo de análise e desenvolvimento de sistemas
+- 🌱 Atualmente estou cursando análise e desenvolvimento de sistemas pelo IFES - campus Alegre
 
 <div align="center">
   <a href="https://github.com/JPSerpa75">
